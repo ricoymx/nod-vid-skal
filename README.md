@@ -1,2 +1,2 @@
 # nod-vid-skal
-Node in Shell (nodejs, zsh)
+Node at Shell (nodejs, zsh)
